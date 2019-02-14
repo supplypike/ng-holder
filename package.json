@@ -1,0 +1,14 @@
+{
+    "name": "angular-holderjs",
+    "version": "1.1.0",
+    "description": "An AngularJS directive for HolderJS.",
+    "keywords": [
+      "angular",
+      "angularjs",
+      "ng",
+      "holder",
+      "holderjs"
+    ],
+    "license": "MIT",
+    "main": "src/holder.js"
+}
